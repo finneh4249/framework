@@ -1,0 +1,16 @@
+a {
+    color: var(--clr-primary-a0);
+    text-decoration: none;
+  }
+
+a:hover{
+    color: var(--clr-primary-a10);
+}
+
+a:focus{
+    color: var(--clr-primary-a20);
+}
+
+a:active{
+    color: var(--clr-primary-a30);
+}
