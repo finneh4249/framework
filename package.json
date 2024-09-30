@@ -1,0 +1,22 @@
+{
+  "name": "finnehcss",
+  "version": "0.0.1-alpha",
+  "description": "Lightweight & Modular CSS Framework built on CSS Layers",
+  "main": "finnehcss.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finneh4249/framework.git"
+  },
+  "author": "Finneh4249",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finneh4249/framework/issues"
+  },
+  "homepage": "https://github.com/finneh4249/framework#readme"
+}
